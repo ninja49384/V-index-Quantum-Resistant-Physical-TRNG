@@ -51,21 +51,29 @@ Zero Data Transfer: All processing happens locally in the client’s browser. No
 Usage
 
 Start the application in an HTTPS‑based environment (e.g., GitHub Pages).
+
 Click the INITIALIZE SYSTEM button.
+
 Create physical noise (paper crumpling, whispering, air movement, anything).
+
 Once the V-index reaches the secure range, the HARVEST KEY button becomes active.
+
 Click the button to generate the 24‑character unique key.
 
 
 Technical Details
+
 Language: HTML5, CSS3, Pure JavaScript (Web Audio API)
+
 Quantum Resistance: Physical entropy extraction (Entropy Harvesting)
+
 Visualization: Real time spectrum analyzer and particle simulation
+
 Hash Algorithm: SHA-256
+
 Entropy Source: 32-bit Float PCM Audio Data
+
 Health Validation: Integrated Repetition Count Test and Adaptive Proportion Test to filter out low entropy states.
-
-
 
 
 
