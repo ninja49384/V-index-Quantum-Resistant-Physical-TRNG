@@ -39,11 +39,11 @@ V-Index Algorithm: A custom mathematical model that analyzes the spectral distri
 
 Cryptographic Mixing: Physical samples (2048 samples per hash) and V-Index metadata are cryptographically mixed with the browser's native CSPRNG (crypto.getRandomValues). The result is processed through an SHA-256 feedback buffer.
 
-Hybrid Architecture: Keys are not just the result of a software algorithm; they incorporate the unpredictable nature of the physical world.64-Character
+Hybrid Architecture: Keys are not just the result of a software algorithm, they incorporate the unpredictable nature of the physical world.
 
-Output: Keys are 64 characters long, selected from a 94-character alphabet. This ensures the output fully utilizes the 256-bit security strength of the underlying hash.
+Output: Keys are 24 characters long, selected from a 70-character alphabet. This ensures the output fully utilizes the 256-bit security strength of the underlying hash.
 
-Quantum Resistant Approach: The massive number of variations ($94^{64}$) far exceeds the brute-force capabilities of current and foreseeable computing power.
+Quantum Resistant Approach: The massive number of variations (94/64) far exceeds the brute-force capabilities of current and foreseeable computing power.
 
 Zero Data Transfer: All processing happens locally in the client’s browser. No audio data or generated keys ever leave your device, ensuring total privacy.
 
