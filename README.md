@@ -4,7 +4,7 @@
 
 
 # V-index Quantum Resistant Physical TRNG
-The first open source project that integrates acoustically validated entropy measured using the V-Index into modern browsers’ CSPRNG engines, creating a physically grounded, quantum resistant layer accessible to everyone.
+The first open source project that integrates acoustically validated entropy measured using the V-Index into modern browsers’ CSPRNG engines, creating a physically grounded, quantum resistant layer accessible to everyone. V-index PTRNG brings QKD level physical randomness and key quality to everyone's pocket, without the need for expensive hardware.
 
 https://kisnorbert87.github.io/V-index-Quantum-Resistant-Physical-TRNG/
 
