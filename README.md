@@ -4,7 +4,10 @@
 
 
 # V-index Quantum Resistant Physical TRNG
-**Security powered by physics (in your pocket).**  
+**Security powered by physics.**
+
+  **"In your pocket"**
+
 The first open‑source, browser‑based True Random Number Generator (TRNG) that uses real‑world acoustic entropy to create quantum‑resistant keys — **no hardware required**.
 
 !License: GPL-3.0
