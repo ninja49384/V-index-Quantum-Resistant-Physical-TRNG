@@ -31,6 +31,23 @@ No pattern: The key is based on the chaotic movement of air molecules and hardwa
 Unrecoverable: Since the source is not an equation but a one time physical event, there is no mathematical model that could reconstruct the key afterward.
 Entropy Gate: The system only allows key extraction if the V-index confirms the presence of external physical interaction (noise), thereby excluding weak, software-based randomness.
 
+The generator does not rely on a single source of randomness, instead it weaves three distinct layers together to produce the final key:
+
+Physical Entropy (Microphone): Utilizing the Web Audio API, the system captures ambient acoustic noise. The instantaneous fluctuations across 128 different frequency bands provide a "chaotic core" that is inherently unpredictable.
+
+V-Index Algorithm: A custom mathematical model that analyzes the spectral distribution, weighted center (I), average amplitude (a), and deviation (AS) of the incoming audio. This module acts as the "Entropy Gate" if the environment is too silent or monotonic, the system locks to prevent the generation of weak keys.
+
+Cryptographic Mixing: Physical samples (2048 samples per hash) and V-Index metadata are cryptographically mixed with the browser's native CSPRNG (crypto.getRandomValues). The result is processed through an SHA-256 feedback buffer.
+
+Hybrid Architecture: Keys are not just the result of a software algorithm; they incorporate the unpredictable nature of the physical world.64-Character
+
+Output: Keys are 64 characters long, selected from a 94-character alphabet. This ensures the output fully utilizes the 256-bit security strength of the underlying hash.
+
+Quantum Resistant Approach: The massive number of variations ($94^{64}$) far exceeds the brute-force capabilities of current and foreseeable computing power.
+
+Zero Data Transfer: All processing happens locally in the client’s browser. No audio data or generated keys ever leave your device, ensuring total privacy.
+
+
 Usage
 
 Start the application in an HTTPS‑based environment (e.g., GitHub Pages).
@@ -44,6 +61,13 @@ Technical Details
 Language: HTML5, CSS3, Pure JavaScript (Web Audio API)
 Quantum Resistance: Physical entropy extraction (Entropy Harvesting)
 Visualization: Real time spectrum analyzer and particle simulation
+Hash Algorithm: SHA-256
+Entropy Source: 32-bit Float PCM Audio Data
+Health Validation: Integrated Repetition Count Test and Adaptive Proportion Test to filter out low entropy states.
+
+
+
+
 
 Compliance and Security Standards
 
